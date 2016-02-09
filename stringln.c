@@ -1,5 +1,4 @@
 #include <studio.h>
-#include <string>
 
 int stringLength(string a)
 {
